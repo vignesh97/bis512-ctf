@@ -1,10 +1,11 @@
 {
-  "descrip": "Princess Leia planet Athens",
-  "icon": "fa fa-lock fa-2x",
-  "lat": 37.98381,
-  "lng": 23.727539,
-  "locn_img": "images_sw/leia2.png",
-  "risk": "high",
-  "risk_icon": "fa fa-2x fa-high fa-lock",
-  "source": "app"
+  "descrip" : "A common man emerged into a suoer human and fought for safety of the people",
+  "icon" : "fa fa-lock fa-2x",
+  "lat" : 37.98381,
+  "lng" : 23.727539,
+  "locn_img" : "images_sw/NewYorkCity100x100.png",
+  "risk" : "high",
+  "risk_icon" : "fa fa-2x fa-high fa-lock",
+  "source" : "app"
 }
+
