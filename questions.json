@@ -1,29 +1,13 @@
 {
-  "q1": {
-    "Eval": "Concept",
-    "choices": {
-      "c1": {
-        "ctext": "Complex",
-        "val": 1
-      },
-      "c2": {
-        "ctext": "Sophisticated",
-        "val": 2
-      },
-      "c3": {
-        "ctext": "Simple",
-        "val": 3
-      }
-    },
-    "correct": 3,
-    "hint": "This is a hint",
-    "hintcost": 2,
-    "order": 1,
-    "pts": 10,
-    "qlabel": "simple",
-    "qname": "q01",
-    "qtext": "For secure design an information system must be ",
-    "qtype": "button"
+    "q1" : {
+    "Eval" : "ImageRef",
+    "correct" : "johannes trithemius",
+    "order" : 1,
+    "pts" : 1,
+    "qlabel" : "open design",
+    "qname" : "q04",
+    "qtext" : "Bonus:  Who is the writer of stegonographia? (Type the answer in small case)",
+    "qtype" : "shorttxt"
   },
     "q2" : {
     "Eval" : "General",
