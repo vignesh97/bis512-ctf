@@ -53,19 +53,19 @@
     "qtext" : "Spider-Man has become Marvel's what? ",
     "qtype" : "button"
   },
-  "q3": {
-    "Eval": "ImageRef",
-    "correct": 1,
-    "likerttext": "IC4:Death Star:Millenium Falcon:Cloud City:Tatooine",
-    "mc1": "images_sw/deathstar2.png",
-    "mc2": "images_sw/mf3.png",
-    "mc3": "images_sw/cloudcity2.png",
-    "mc4": "images_sw/tatooine2.png",
-    "order": 3,
-    "pts": 15,
-    "qlabel": "simple",
-    "qname": "q03",
-    "qtext": "Which image appeared in the explanation video?",
-    "qtype": "image"
+  "q3" : {
+    "Eval" : "ImageRef",
+    "correct" : 4,
+    "likerttext" : "Spider Man: Steganography",
+    "mc1" : "images_sw/Mask100x100.png",
+    "mc2" : "images_sw/Spider100x100.png",
+    "mc3" : "images_sw/Spider-Man100x100.png",
+    "mc4" : "images_sw/Web100x100.png",
+    "order" : 3,
+    "pts" : 1,
+    "qlabel" : "Steganography",
+    "qname" : "q03",
+    "qtext" : "Which image has the right answer?",
+    "qtype" : "image"
   }
 }
