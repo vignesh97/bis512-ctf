@@ -55,7 +55,7 @@
   },
   "q3" : {
     "Eval" : "ImageRef",
-    "correct" : 4,
+    "correct" : 1,
     "likerttext" : "Spider Man: Steganography",
     "mc1" : "images_sw/Mask100x100.png",
     "mc2" : "images_sw/Spider100x100.png",
@@ -65,7 +65,7 @@
     "pts" : 1,
     "qlabel" : "Steganography",
     "qname" : "q03",
-    "qtext" : "Which image has the right answer?",
+    "qtext" : "Which image has the right secret information from this link - http://34.74.45.252/quiz-images/ctf.html ?",
     "qtype" : "image"
   }
 }
