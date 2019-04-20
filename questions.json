@@ -25,29 +25,33 @@
     "qtext": "For secure design an information system must be ",
     "qtype": "button"
   },
-  "q2": {
-    "Eval": "SWRef",
-    "choices": {
-      "c1": {
-        "ctext": "Death Star",
-        "val": 1
+    "q2" : {
+    "Eval" : "General",
+    "choices" : {
+      "c1" : {
+        "ctext" : "Confidante Character",
+        "val" : 1
       },
-      "c2": {
-        "ctext": "Millenium Falcon",
-        "val": 2
+      "c2" : {
+        "ctext" : "Dynamic Character",
+        "val" : 2
       },
-      "c3": {
-        "ctext": "Cloud City",
-        "val": 3
+      "c3" : {
+        "ctext" : "Flagship Character",
+        "val" : 3
+      },
+      "c4" : {
+        "ctext" : "Main Character",
+        "val" : 4
       }
     },
-    "correct": 3,
-    "order": 2,
-    "pts": 10,
-    "qlabel": "simple",
-    "qname": "q02",
-    "qtext": "In Star Wars the design of this ignored the principle of simplicity. ",
-    "qtype": "button"
+    "correct" : 3,
+    "order" : 2,
+    "pts" : 1,
+    "qlabel" : "open source",
+    "qname" : "q02",
+    "qtext" : "Spider-Man has become Marvel's what? ",
+    "qtype" : "button"
   },
   "q3": {
     "Eval": "ImageRef",
