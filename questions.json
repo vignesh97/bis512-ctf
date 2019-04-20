@@ -1,0 +1,71 @@
+{
+  "q1": {
+    "Eval": "Concept",
+    "choices": {
+      "c1": {
+        "ctext": "Complex",
+        "val": 1
+      },
+      "c2": {
+        "ctext": "Sophisticated",
+        "val": 2
+      },
+      "c3": {
+        "ctext": "Simple",
+        "val": 3
+      }
+    },
+    "correct": 3,
+    "hint": "This is a hint",
+    "hintcost": 2,
+    "order": 1,
+    "pts": 10,
+    "qlabel": "simple",
+    "qname": "q01",
+    "qtext": "For secure design an information system must be ",
+    "qtype": "button"
+  },
+    "q2" : {
+    "Eval" : "General",
+    "choices" : {
+      "c1" : {
+        "ctext" : "Confidante Character",
+        "val" : 1
+      },
+      "c2" : {
+        "ctext" : "Dynamic Character",
+        "val" : 2
+      },
+      "c3" : {
+        "ctext" : "Flagship Character",
+        "val" : 3
+      },
+      "c4" : {
+        "ctext" : "Main Character",
+        "val" : 4
+      }
+    },
+    "correct" : 3,
+    "order" : 2,
+    "pts" : 1,
+    "qlabel" : "open source",
+    "qname" : "q02",
+    "qtext" : "Spider-Man has become Marvel's what? ",
+    "qtype" : "button"
+  },
+  "q3": {
+    "Eval": "ImageRef",
+    "correct": 1,
+    "likerttext": "IC4:Death Star:Millenium Falcon:Cloud City:Tatooine",
+    "mc1": "images_sw/deathstar2.png",
+    "mc2": "images_sw/mf3.png",
+    "mc3": "images_sw/cloudcity2.png",
+    "mc4": "images_sw/tatooine2.png",
+    "order": 3,
+    "pts": 15,
+    "qlabel": "simple",
+    "qname": "q03",
+    "qtext": "Which image appeared in the explanation video?",
+    "qtype": "image"
+  }
+}
