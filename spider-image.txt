@@ -1,0 +1,6 @@
+
+1) spiderman mask 50x50 icon png
+2) des
+3) spiderman newyork 50x50
+4) qlabel change
+

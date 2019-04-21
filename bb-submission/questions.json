@@ -4,9 +4,9 @@
     "correct" : "johannes trithemius",
     "order" : 1,
     "pts" : 1,
-    "qlabel" : "open design",
-    "qname" : "q04",
-    "qtext" : "Bonus:  Who is the writer of stegonographia? (Type the answer in small case)",
+    "qlabel" : "Steganography",
+    "qname" : "q01",
+    "qtext" : "Bonus:  Who is the writer of stegonographia? (Type the answer in lower case)",
     "qtype" : "shorttxt"
   },
     "q2" : {
@@ -32,7 +32,7 @@
     "correct" : 3,
     "order" : 2,
     "pts" : 1,
-    "qlabel" : "open source",
+    "qlabel" : "Steganography",
     "qname" : "q02",
     "qtext" : "Spider-Man has become Marvel's what? ",
     "qtype" : "button"
