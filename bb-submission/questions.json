@@ -49,7 +49,7 @@
     "pts" : 1,
     "qlabel" : "Steganography",
     "qname" : "q03",
-    "qtext" : "Which image has the right secret information from this link - http://34.74.45.252/quiz-images/ctf.html ?",
+    "qtext" : "Which image has the right secret information from this link - http://34.74.45.252/quiz-images/ctf.html ? ",
     "qtype" : "image"
   }
 }
