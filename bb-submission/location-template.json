@@ -1,0 +1,11 @@
+{
+  "descrip" : "A common man emerged into a super human and fought for safety of the people using his web power. Spider-Man has the ability to cling to walls, superhuman strength, a sixth sense (spider-sense) that alerts him to danger, perfect balance and equilibrium, as well as superhuman speed and agility.",
+  "icon" : "fa fa-lock fa-2x",
+  "lat" : 37.98381,
+  "lng" : 23.727539,
+  "locn_img" : "images_sw/spider-newyorkcity.png",
+  "risk" : "high",
+  "risk_icon" : "fa fa-2x fa-high fa-lock",
+  "source" : "app"
+}
+
