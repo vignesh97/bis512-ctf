@@ -40,7 +40,7 @@
   "q3" : {
     "Eval" : "ImageRef",
     "correct" : 1,
-    "likerttext" : "Spider Man: Steganography",
+    "likerttext" : "IC4:SpidermanMask:Spiderman:RealSpider:SpiderWeb",
     "mc1" : "images_sw/spiderman-q3-mc1.png",
     "mc2" : "images_sw/spiderman-q3-mc2.png",
     "mc3" : "images_sw/spiderman-q3-mc3.png",
